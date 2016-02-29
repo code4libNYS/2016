@@ -1,0 +1,22 @@
+# Site settings
+title: Code4Lib New York State 2016 Meeting
+email: c4lnys-planning@googlegroups.com
+description: > # this means to ignore newlines until "baseurl:"
+  Code4Lib NYS (New York State) 2016 Midsummer Meeting at Mann Library, Cornell University.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Christina Harlow
+email: cmh329@cornell.edu
+github_username: code4libNYS
+address:
+  - line: Albert R. Mann Library
+  - line: 237 Mann Drive
+  - line: Ithaca, NY 14853
+
+# API settings
+google_api_key: "AIzaSyBc2fr7VCIw3B2WdBxp49j1xW2erOhWQ5s"
+
+# Build settings
+markdown: kramdown
